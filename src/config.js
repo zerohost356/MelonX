@@ -1,7 +1,7 @@
 module.exports = {
 
     BOT_NAME: 'MelonX',
-    BOT_TOKEN: 'Token Bot',
+    BOT_TOKEN: 'Bot token',
     CLIENT_ID: '1521550046758178817',
     OWNER_ID: '1318639481003184128', // owner-only commands
     PREFIX: ',', // default text command prefix
