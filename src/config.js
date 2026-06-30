@@ -1,7 +1,7 @@
 module.exports = {
 
-    BOT_NAME: 'Bdfd',
-    BOT_TOKEN: 'MTUyMTU1MDA0Njc1ODE3ODgxNw.GzQLL7.LSdML95fnJsglFZ66-_j6OkXzamchKopwBBs60',
+    BOT_NAME: 'MelonX',
+    BOT_TOKEN: 'Token Bot',
     CLIENT_ID: '1521550046758178817',
     OWNER_ID: '1318639481003184128', // owner-only commands
     PREFIX: ',', // default text command prefix
