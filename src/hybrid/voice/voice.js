@@ -175,3 +175,4 @@ module.exports = {
         await subcommand.execute(interactionOrMessage, args.slice(1));
     }
 };
+
